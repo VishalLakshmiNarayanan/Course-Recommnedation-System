@@ -118,8 +118,8 @@ pip (Python package manager)
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AFK-coders.git
-cd AFK-coders
+git clone https://github.com/yourusername/Course-Recommnedation-System.git
+cd Course-Recommnedation-System
 ```
 
 ### Step 2: Install Dependencies
@@ -314,7 +314,7 @@ ML Intern            ██████████░░░░░░░░░�
 ## Project Structure
 
 ```
-AFK-coders/
+Course-Recommnedation-System/
 │
 ├── web.py                      # Main Streamlit application
 ├── requirements.txt            # Python dependencies
